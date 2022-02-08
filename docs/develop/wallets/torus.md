@@ -54,4 +54,4 @@ const web3 = new Web3(torus.provider);
 
 ## 2. DirectAuth integration
 
-If you are looking to control your own UX, from login to every interaction, then DirectAuth is the integration for you. You can integrate via one of our SDKs depending on the platform/s you are building on. For more, please visit Torus direct auth integration: https://docs.tor.us/direct-auth/quick-start
+If you are looking to control your own UX, from login to every interaction, then DirectAuth is the integration for you. You can integrate via one of our SDKs depending on the platform/s you are building on. For more, please visit Torus direct auth integration: https://docs.web3auth.io/guides/web3auth-getting-started
